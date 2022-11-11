@@ -1,4 +1,4 @@
-# EcoBox-tundra
+# EcoBox-Arctic-tundra
 a backup for high school project
 
 This project have 2 seperate microbits.
